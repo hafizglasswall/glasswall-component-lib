@@ -1,11 +1,11 @@
 {
-  "name": "learnstorybook-design-system",
+  "name": "@glasswall/glasswall-component-lib",
   "version": "0.1.0",
   "private": false,
-  "description": "Learn Storybook design system",
+  "description": "learn storybook at glasswall",
   "main": "dist/index.js",
-  "repository": "https://github.com/chromaui/learnstorybook-design-system.git",
-  "author": "Tom Coleman <tom@thesnail.org>",
+  "repository": "https://github.com/hafizglasswall/glasswall-component-lib.git",
+  "author": "hafiz didarali",
   "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
